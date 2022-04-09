@@ -1,0 +1,3602 @@
+[
+    {
+        "company location": "Москва",
+        "company name": "ООО HeadHunter::QA",
+        "link": "https://spb.hh.ru/vacancy/47251783?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Middle QA специалист в команду Биллинга",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/54004317?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Go и Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Агентство Стратегических Исследований",
+        "link": "https://spb.hh.ru/vacancy/54589466?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Engineer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "АО Банк ДОМ.РФ",
+        "link": "https://spb.hh.ru/vacancy/54418768?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Senior data scientist",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Проспект Мира и еще 2 ",
+        "company name": "АО Макомнет",
+        "link": "https://spb.hh.ru/vacancy/54599964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик PL/SQL",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Калужская",
+        "company name": "ООО Робин",
+        "link": "https://spb.hh.ru/vacancy/54563092?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Младший разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "ООО МОТИВ, телекоммуникационная группа",
+        "link": "https://spb.hh.ru/vacancy/54656312?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Стажер-разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Uploadcare LLC",
+        "link": "https://spb.hh.ru/vacancy/53974102?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 3000,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "ArtVolkov.ru",
+        "link": "https://spb.hh.ru/vacancy/48457284?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 600000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчтик python(удаленно)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Точка",
+        "link": "https://spb.hh.ru/vacancy/49590587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 450000,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Lesta Studio (St.Petersburg / Moscow)",
+        "link": "https://spb.hh.ru/vacancy/49789002?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Junior programmer (Python, C++)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО Телеком-Инжиниринг",
+        "link": "https://spb.hh.ru/vacancy/53555363?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": null,
+        "vacancy_name": "Junior Программист/Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Новокузнецк",
+        "company name": "ООО Транио",
+        "link": "https://spb.hh.ru/vacancy/54684116?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 22000,
+        "salary_max": null,
+        "vacancy_name": "Python web-developer (стажер)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Петроградская",
+        "company name": "ООО ЛИИС Инженерные Решения",
+        "link": "https://spb.hh.ru/vacancy/54687196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 50000,
+        "salary_max": null,
+        "vacancy_name": "Junior Backend-разработчик (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Сухаревская",
+        "company name": "ООО Фабрика Решений",
+        "link": "https://spb.hh.ru/vacancy/39736489?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 150000,
+        "vacancy_name": "Python-разработчик (Django, DRF)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Чернышевская",
+        "company name": "AISA",
+        "link": "https://spb.hh.ru/vacancy/54453619?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 200000,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Курская и еще 2 ",
+        "company name": "Whalemap",
+        "link": "https://spb.hh.ru/vacancy/54636921?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 300000,
+        "vacancy_name": "Backend-разработчик (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Калуга",
+        "company name": "АО АЛГОНТ",
+        "link": "https://spb.hh.ru/vacancy/51697031?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 50000,
+        "salary_max": 90000,
+        "vacancy_name": "Junior Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Петроградская",
+        "company name": "ООО Вайт Код",
+        "link": "https://spb.hh.ru/vacancy/51183293?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 360000,
+        "vacancy_name": "Python developer (Middle)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Алексеевская",
+        "company name": "Hello, Doc!",
+        "link": "https://spb.hh.ru/vacancy/54686338?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "vacancy_name": "Ведущий Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Точка",
+        "link": "https://spb.hh.ru/vacancy/49423067?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 380000,
+        "vacancy_name": "Data Scientist",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Петроградская",
+        "company name": "Coding Team",
+        "link": "https://spb.hh.ru/vacancy/54661053?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": 230000,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Coin Liquidity Solutions",
+        "link": "https://spb.hh.ru/vacancy/54491511?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 5000,
+        "salary_max": 6000,
+        "vacancy_name": "Senior Python Developer",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Смарт Текнолоджис,ООО",
+        "link": "https://spb.hh.ru/vacancy/54422891?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "Смарт Текнолоджис,ООО",
+        "link": "https://spb.hh.ru/vacancy/53997348?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 140000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Приморская",
+        "company name": "Digital Design",
+        "link": "https://spb.hh.ru/vacancy/54414582?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer Intern",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Водный стадион",
+        "company name": "Лаборатория Касперского",
+        "link": "https://spb.hh.ru/vacancy/54663140?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Стажер-тестировщик (Мобильное направление)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Нижний Новгород",
+        "company name": "Novakid Inc",
+        "link": "https://spb.hh.ru/vacancy/49397924?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Новосибирск, Гагаринская",
+        "company name": "STARTEX",
+        "link": "https://spb.hh.ru/vacancy/54210102?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 330000,
+        "vacancy_name": "Techlead Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Betting Software",
+        "link": "https://spb.hh.ru/vacancy/54562300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 1000,
+        "salary_max": 3000,
+        "vacancy_name": "Python Developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "Digital Hub",
+        "link": "https://spb.hh.ru/vacancy/54315579?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 150000,
+        "vacancy_name": "Middle python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург, Площадь 1905 года",
+        "company name": "ООО Торговый холдинг Веда",
+        "link": "https://spb.hh.ru/vacancy/54596451?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "РобоФинанс",
+        "link": "https://spb.hh.ru/vacancy/54693984?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "vacancy_name": "Data Analyst",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ДВ технологии",
+        "link": "https://spb.hh.ru/vacancy/54470812?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик / программист Python (Python Developer)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Кантемировская",
+        "company name": "AISA",
+        "link": "https://spb.hh.ru/vacancy/54453575?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 200000,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ANABAR",
+        "link": "https://spb.hh.ru/vacancy/54383588?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 300000,
+        "vacancy_name": "Data Analyst",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург, Площадь 1905 года",
+        "company name": "ROIburo",
+        "link": "https://spb.hh.ru/vacancy/54512127?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО Майгрин Маркет",
+        "link": "https://spb.hh.ru/vacancy/54615345?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 140000,
+        "salary_max": 170000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Фуллстатс",
+        "link": "https://spb.hh.ru/vacancy/54639104?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист junior / middle backend-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/54665672?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 3000,
+        "salary_max": 5000,
+        "vacancy_name": "Software engineer / Python ML",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "ООО КЦМ",
+        "link": "https://spb.hh.ru/vacancy/54580594?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Темпеста",
+        "link": "https://spb.hh.ru/vacancy/54678788?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 6000,
+        "vacancy_name": "С/С++ Linux разработчик (remote)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва, Беговая и еще 1 ",
+        "company name": "ООО Студия анимации Платошка",
+        "link": "https://spb.hh.ru/vacancy/54636891?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 40000,
+        "salary_max": 70000,
+        "vacancy_name": "Программист-разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Group-IB",
+        "link": "https://spb.hh.ru/vacancy/54221393?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Нижний Новгород, Горьковская",
+        "company name": "ООО Тис-Центр",
+        "link": "https://spb.hh.ru/vacancy/54524332?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Центр Психологической Помощи и Консультирования",
+        "link": "https://spb.hh.ru/vacancy/53863478?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 450000,
+        "vacancy_name": "Разработчик Python / Tech Lead",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Калужская",
+        "company name": "idaproject",
+        "link": "https://spb.hh.ru/vacancy/54060737?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 70000,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Челябинск",
+        "company name": "ИП Шаимов Марат Шагишарифович",
+        "link": "https://spb.hh.ru/vacancy/54610182?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": 120000,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Яндекс.Практикум",
+        "link": "https://spb.hh.ru/vacancy/54428168?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 70000,
+        "salary_max": 150000,
+        "vacancy_name": "Ревьюер проектов на курс по Data Science и Аналитике данных",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Зеленоград",
+        "company name": "ООО СтратоСфера",
+        "link": "https://spb.hh.ru/vacancy/54160350?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Домклик",
+        "link": "https://spb.hh.ru/vacancy/54681942?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик (Витрина)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ИП Андреев Артём Александрович",
+        "link": "https://spb.hh.ru/vacancy/54626980?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 150000,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "РЕСО-Гарантия, САО",
+        "link": "https://spb.hh.ru/vacancy/54657714?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Scientist (junior+/middle)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Софтцентр",
+        "link": "https://spb.hh.ru/vacancy/54385772?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": 350000,
+        "vacancy_name": "Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Ботанический сад и еще 1 ",
+        "company name": "Schaffhausen Institute of Technology",
+        "link": "https://spb.hh.ru/vacancy/54554622?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": null,
+        "vacancy_name": "Backend Middle+ Python/Django",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Russian Quantum Center",
+        "link": "https://spb.hh.ru/vacancy/53622010?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": 450000,
+        "vacancy_name": "Fullstack техлид (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ЮТэйр, Авиакомпания",
+        "link": "https://spb.hh.ru/vacancy/54372254?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 220000,
+        "vacancy_name": "Бэкенд-разработчик (Python) / Middle Python / Python Developer (Remote)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Волгоград",
+        "company name": "ООО ТендерПро",
+        "link": "https://spb.hh.ru/vacancy/54565247?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 110000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/53376814?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 3000,
+        "salary_max": null,
+        "vacancy_name": "System/Data Analyst",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Тольятти",
+        "company name": "ООО Пром-Резерв",
+        "link": "https://spb.hh.ru/vacancy/54678428?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "PRO100Robot",
+        "link": "https://spb.hh.ru/vacancy/54299182?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 300000,
+        "vacancy_name": "Разработчик RPA / Программист на JS / Python / 1C",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Домклик",
+        "link": "https://spb.hh.ru/vacancy/54681929?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик (CRM Domclick)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО СтандартПроект",
+        "link": "https://spb.hh.ru/vacancy/54659098?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Scientist / Data Analyst",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "АО Моринформсистема-Агат, Концерн",
+        "link": "https://spb.hh.ru/vacancy/54329930?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 65000,
+        "salary_max": null,
+        "vacancy_name": "Инженер - программист PYTHON",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Ростов-на-Дону",
+        "company name": "ООО Электронная медицина",
+        "link": "https://spb.hh.ru/vacancy/47668037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 30000,
+        "salary_max": 80000,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Айти Прайм",
+        "link": "https://spb.hh.ru/vacancy/49749758?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик C# / Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Ульяновск",
+        "company name": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/54650092?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Сухаревская",
+        "company name": "ООО Фабрика Решений",
+        "link": "https://spb.hh.ru/vacancy/50832752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 170000,
+        "salary_max": 220000,
+        "vacancy_name": "Разработчик-Python (Django, DRF)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Красносельская",
+        "company name": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/53893235?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург, Динамо",
+        "company name": "Carbon Soft",
+        "link": "https://spb.hh.ru/vacancy/54241037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 220000,
+        "vacancy_name": "Программист Middle Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Набережные Челны",
+        "company name": "ООО ТАТПАРТС",
+        "link": "https://spb.hh.ru/vacancy/54233999?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": 150000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Новые Стандарты",
+        "link": "https://spb.hh.ru/vacancy/54534189?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": null,
+        "vacancy_name": "Senior QA Автоматизатор (Дистанционно или с Релокацией)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "Gravitum",
+        "link": "https://spb.hh.ru/vacancy/54170858?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 400000,
+        "salary_max": 600000,
+        "vacancy_name": "Full-Stack Developer в американскую компанию (удаленно)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "ООО Мелдана",
+        "link": "https://spb.hh.ru/vacancy/53732600?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 125000,
+        "salary_max": 150000,
+        "vacancy_name": "Программист-разработчик Python middle developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Enjoypro",
+        "link": "https://spb.hh.ru/vacancy/54323700?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Behavox",
+        "link": "https://spb.hh.ru/vacancy/54346665?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 8500,
+        "salary_max": null,
+        "vacancy_name": "Python Developer 3 - ML Infra (to Canada/Serbia)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "Alao",
+        "link": "https://spb.hh.ru/vacancy/54676132?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 2500,
+        "salary_max": 4200,
+        "vacancy_name": "Python developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Санкт-Петербург, Петроградская",
+        "company name": "ООО Вайт Код",
+        "link": "https://spb.hh.ru/vacancy/54136033?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 360000,
+        "salary_max": 480000,
+        "vacancy_name": "Python developer (Senior)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "КИБЕР-РОМ",
+        "link": "https://spb.hh.ru/vacancy/53633619?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "vacancy_name": "Python developer (FastAPI / Flask)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Кутузовская и еще 1 ",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/53698913?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Стажёр backend разработки",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Савёловская",
+        "company name": "ООО Корпорация ЗНАК",
+        "link": "https://spb.hh.ru/vacancy/54159401?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": 220000,
+        "vacancy_name": "Python web разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО Диплей",
+        "link": "https://spb.hh.ru/vacancy/46520867?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Аналитик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "Атом Безопасность",
+        "link": "https://spb.hh.ru/vacancy/54487806?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python - разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Смарт Текнолоджис,ООО",
+        "link": "https://spb.hh.ru/vacancy/53997365?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 140000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Фулекс",
+        "link": "https://spb.hh.ru/vacancy/54696573?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": 150000,
+        "vacancy_name": "Backend-разработчик (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "Деплов Сергей",
+        "link": "https://spb.hh.ru/vacancy/52248344?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 220000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ACCELERATION",
+        "link": "https://spb.hh.ru/vacancy/54624749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python\\ фрилансер",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Freedom International Group",
+        "link": "https://spb.hh.ru/vacancy/54625207?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "vacancy_name": "ML Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Ладожская",
+        "company name": "Lesta Studio (St.Petersburg / Moscow)",
+        "link": "https://spb.hh.ru/vacancy/48361239?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer (Backend)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Добрынинская и еще 2 ",
+        "company name": "Tripster",
+        "link": "https://spb.hh.ru/vacancy/54692157?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург, Динамо",
+        "company name": "ООО МОТИВ, телекоммуникационная группа",
+        "link": "https://spb.hh.ru/vacancy/50258259?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Интеллектуальные Продукты",
+        "link": "https://spb.hh.ru/vacancy/54634721?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 70000,
+        "salary_max": 120000,
+        "vacancy_name": "Middle Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Чкаловская",
+        "company name": "Генотек",
+        "link": "https://spb.hh.ru/vacancy/54625612?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": 170000,
+        "vacancy_name": "Backend developer (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "SberTech",
+        "link": "https://spb.hh.ru/vacancy/54693361?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Агентство КИТ Консалт",
+        "link": "https://spb.hh.ru/vacancy/51964859?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 100000,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "X5 RETAIL GROUP, Центральный офис",
+        "link": "https://spb.hh.ru/vacancy/54653040?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend developer (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "CityStress",
+        "link": "https://spb.hh.ru/vacancy/54679309?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Web-программист python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Петухова Алия",
+        "link": "https://spb.hh.ru/vacancy/54445824?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 315000,
+        "salary_max": 860000,
+        "vacancy_name": "Senior DevOps in Blockchain Startup",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Регистратор доменных имен РЕГ.РУ",
+        "link": "https://spb.hh.ru/vacancy/49250843?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист-аналитик Python (Data Science)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО Смарт консалтинг",
+        "link": "https://spb.hh.ru/vacancy/54646194?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Ростов-на-Дону",
+        "company name": "IT-команда НЕБО",
+        "link": "https://spb.hh.ru/vacancy/51992559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Фуллстатс",
+        "link": "https://spb.hh.ru/vacancy/54639104?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист junior / middle backend-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Мякинино",
+        "company name": "СИТИЛИНК",
+        "link": "https://spb.hh.ru/vacancy/54315396?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "SberTech",
+        "link": "https://spb.hh.ru/vacancy/54693361?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Мозен",
+        "link": "https://spb.hh.ru/vacancy/54635138?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 400000,
+        "vacancy_name": "Senior Python, Django Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/53376814?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 3000,
+        "salary_max": null,
+        "vacancy_name": "System/Data Analyst",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "DINS",
+        "link": "https://spb.hh.ru/vacancy/54635433?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python/Go Developer (Georgia/Europe)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Behavox",
+        "link": "https://spb.hh.ru/vacancy/54346665?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 8500,
+        "salary_max": null,
+        "vacancy_name": "Python Developer 3 - ML Infra (to Canada/Serbia)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва, Динамо и еще 1 ",
+        "company name": "АО Кросс технолоджис",
+        "link": "https://spb.hh.ru/vacancy/54665405?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 150000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "HR Prime",
+        "link": "https://spb.hh.ru/vacancy/53702038?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 350000,
+        "vacancy_name": "Data-engineer в продуктовую компанию",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ACCELERATION",
+        "link": "https://spb.hh.ru/vacancy/54624749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python\\ фрилансер",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Мозен",
+        "link": "https://spb.hh.ru/vacancy/54635249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 250000,
+        "vacancy_name": "Middle Python, Django Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Кутузовская и еще 1 ",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/53698913?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Стажёр backend разработки",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Красносельская",
+        "company name": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/48725584?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend developer (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Университет",
+        "company name": "ООО Центр инженерной физики МГУ",
+        "link": "https://spb.hh.ru/vacancy/54598019?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 110000,
+        "salary_max": 140000,
+        "vacancy_name": "Разработчик программного обеспечения (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "билайн: ИТ и Digital",
+        "link": "https://spb.hh.ru/vacancy/54269465?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск, Октябрьская",
+        "company name": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/53275903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 170000,
+        "vacancy_name": "Python developer (middle)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Лесная",
+        "company name": "ЗАО Институт телекоммуникаций",
+        "link": "https://spb.hh.ru/vacancy/52118290?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Горьковская и еще 1 ",
+        "company name": "Space307",
+        "link": "https://spb.hh.ru/vacancy/51415333?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Data Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Ок Софт",
+        "link": "https://spb.hh.ru/vacancy/52805883?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": 250000,
+        "vacancy_name": "Data/DWH engineer (Middle/Senior)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Домклик",
+        "link": "https://spb.hh.ru/vacancy/53586620?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик (Confer)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Павелецкая и еще 1 ",
+        "company name": "CATAPULTO.RU",
+        "link": "https://spb.hh.ru/vacancy/52319246?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 170000,
+        "salary_max": 250000,
+        "vacancy_name": "Программист / Разработчик Python/Django (middle)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "АО Гринатом",
+        "link": "https://spb.hh.ru/vacancy/54651632?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/54603953?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "Тензор",
+        "link": "https://spb.hh.ru/vacancy/50847147?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 225000,
+        "salary_max": null,
+        "vacancy_name": "Ведущий программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "evrone.ru",
+        "link": "https://spb.hh.ru/vacancy/51504482?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 350000,
+        "vacancy_name": "Python (FastApi) Backend developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "AMarkets",
+        "link": "https://spb.hh.ru/vacancy/51911899?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 2000,
+        "vacancy_name": "Специалист по тестированию / QA Engineer (Middle Manual + Auto Python) удаленно",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО ОнТаргет ЛАБС",
+        "link": "https://spb.hh.ru/vacancy/53034584?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 6500,
+        "salary_max": 7000,
+        "vacancy_name": "Python Architect",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Казань",
+        "company name": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/54663100?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Химтех",
+        "link": "https://spb.hh.ru/vacancy/54573265?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data analyst",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Белорусская и еще 2 ",
+        "company name": "ООО НТехЛаб",
+        "link": "https://spb.hh.ru/vacancy/52002358?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик (Pre-sale проекты)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО МВП",
+        "link": "https://spb.hh.ru/vacancy/53828308?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "vacancy_name": "Middle/Senior Python Developer (remote)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "ООО Ростелеком Информационные Технологии",
+        "link": "https://spb.hh.ru/vacancy/45607335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Лесная",
+        "company name": "ООО Москомсвязь",
+        "link": "https://spb.hh.ru/vacancy/54634103?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python/Django (middle)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "3LOGIC GROUP",
+        "link": "https://spb.hh.ru/vacancy/54649601?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "AlfaBit.Group",
+        "link": "https://spb.hh.ru/vacancy/53815867?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python/Django",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "HolyCode",
+        "link": "https://spb.hh.ru/vacancy/54562082?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 350000,
+        "vacancy_name": "Python developer (Senior/Teamlead)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Университет",
+        "company name": "ООО Центр инженерной физики МГУ",
+        "link": "https://spb.hh.ru/vacancy/54598019?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 110000,
+        "salary_max": 140000,
+        "vacancy_name": "Разработчик программного обеспечения (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Казань",
+        "company name": "TGT",
+        "link": "https://spb.hh.ru/vacancy/54676008?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Аналитик данных (Data analyst)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Alber Blanc",
+        "link": "https://spb.hh.ru/vacancy/54385887?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": 8000,
+        "vacancy_name": "Software Engineer (Blockchain/DeFi)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Тюмень",
+        "company name": "ООО ИТС",
+        "link": "https://spb.hh.ru/vacancy/54610327?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 140000,
+        "vacancy_name": "Python-разработчик Pre Middle / Middle",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Пушкинская и еще 2 ",
+        "company name": "Photo Lab",
+        "link": "https://spb.hh.ru/vacancy/54359025?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 350000,
+        "vacancy_name": "QA Automation Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Behavox",
+        "link": "https://spb.hh.ru/vacancy/54346658?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 8500,
+        "salary_max": 11000,
+        "vacancy_name": "Senior Python Developer - AI/ML Infrastructure (to Canada/Serbia)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва, Красносельская",
+        "company name": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/48725584?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend developer (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Самара",
+        "company name": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/54677494?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Лента, федеральная розничная сеть, Супермаркет",
+        "link": "https://spb.hh.ru/vacancy/54199876?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "WAZZUP",
+        "link": "https://spb.hh.ru/vacancy/53331706?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Analyst / Аналитик данных",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Novakid Inc",
+        "link": "https://spb.hh.ru/vacancy/49397922?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Top Remote Talent",
+        "link": "https://spb.hh.ru/vacancy/54092644?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 5000,
+        "salary_max": 7000,
+        "vacancy_name": "Python Developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва, Преображенская площадь",
+        "company name": "Positive Technologies",
+        "link": "https://spb.hh.ru/vacancy/54689594?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Специалист по ИБ (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Куб Три",
+        "link": "https://spb.hh.ru/vacancy/54691580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": null,
+        "vacancy_name": "Senior Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Пермь",
+        "company name": "ООО Макромир Пермь",
+        "link": "https://spb.hh.ru/vacancy/54648826?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 20000,
+        "salary_max": 100000,
+        "vacancy_name": "Программист Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Rambler&Co",
+        "link": "https://spb.hh.ru/vacancy/54692735?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "билайн: ИТ и Digital",
+        "link": "https://spb.hh.ru/vacancy/54269465?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Нижний Новгород",
+        "company name": "ООО Луатек",
+        "link": "https://spb.hh.ru/vacancy/54041265?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 2500,
+        "salary_max": null,
+        "vacancy_name": "Middle Python developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Омск",
+        "company name": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/54650000?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Красноярск",
+        "company name": "EvoSoft",
+        "link": "https://spb.hh.ru/vacancy/51847609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Ростов-на-Дону",
+        "company name": "IT-команда НЕБО",
+        "link": "https://spb.hh.ru/vacancy/51992559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Кемерово",
+        "company name": "ООО Смарт консалтинг",
+        "link": "https://spb.hh.ru/vacancy/54646195?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "РНКБ Банк (ПАО)",
+        "link": "https://spb.hh.ru/vacancy/54209531?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Black Lotus Labs",
+        "link": "https://spb.hh.ru/vacancy/54394989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 12000,
+        "vacancy_name": "Crypto Quant Developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Зеленоград",
+        "company name": "ООО Медицинские Компьютерные Системы",
+        "link": "https://spb.hh.ru/vacancy/54504488?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": 120000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Чебоксары",
+        "company name": "Научно-производственный центр Кейсистемс - Безопасность",
+        "link": "https://spb.hh.ru/vacancy/52319459?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 70000,
+        "salary_max": 150000,
+        "vacancy_name": "Fullstack-разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Киевская",
+        "company name": "Forecsys",
+        "link": "https://spb.hh.ru/vacancy/54654842?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Scientist / Аналитик Data Science",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Динамо и еще 1 ",
+        "company name": "АО Кросс технолоджис",
+        "link": "https://spb.hh.ru/vacancy/54665405?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 150000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Динамо",
+        "company name": "Т1 Cloud",
+        "link": "https://spb.hh.ru/vacancy/54665668?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Мозен",
+        "link": "https://spb.hh.ru/vacancy/54635249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 250000,
+        "vacancy_name": "Middle Python, Django Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Ярославль",
+        "company name": "Фуллстатс",
+        "link": "https://spb.hh.ru/vacancy/54639108?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист junior / middle backend-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Дмитровская и еще 1 ",
+        "company name": "ООО Programmatic Group",
+        "link": "https://spb.hh.ru/vacancy/54522321?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": 210000,
+        "vacancy_name": "Python-разработчик мидл (Middle Backend Python Developer)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Бауманская",
+        "company name": "Bip.ru",
+        "link": "https://spb.hh.ru/vacancy/53809111?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "vacancy_name": "Data scientist / Product analyst",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург, Геологическая",
+        "company name": "SpectrumData",
+        "link": "https://spb.hh.ru/vacancy/54594818?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 250000,
+        "vacancy_name": "Data Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Горьковская и еще 2 ",
+        "company name": "Playkot",
+        "link": "https://spb.hh.ru/vacancy/52279939?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 370000,
+        "vacancy_name": "Data Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Омск",
+        "company name": "ООО Смарт консалтинг",
+        "link": "https://spb.hh.ru/vacancy/54646197?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Рязань",
+        "company name": "MNOGOGAMES",
+        "link": "https://spb.hh.ru/vacancy/49598346?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 130000,
+        "salary_max": 180000,
+        "vacancy_name": "Аналитик данных / Data scientist",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Betting Software",
+        "link": "https://spb.hh.ru/vacancy/54659819?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 3000,
+        "salary_max": 5000,
+        "vacancy_name": "Tech Lead Backend / Руководитель backend-разработки",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "HR Prime",
+        "link": "https://spb.hh.ru/vacancy/53702038?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 350000,
+        "vacancy_name": "Data-engineer в продуктовую компанию",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Behavox",
+        "link": "https://spb.hh.ru/vacancy/54346657?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 8500,
+        "salary_max": 11000,
+        "vacancy_name": "Senior Python Developer - AI/ML Infrastructure (to Canada/Serbia)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва, Белорусская",
+        "company name": "inDriver",
+        "link": "https://spb.hh.ru/vacancy/47882723?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": null,
+        "vacancy_name": "BI Engineer (Tableau)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Сухаревская и еще 1 ",
+        "company name": "ООО НСК ЭкоСфера",
+        "link": "https://spb.hh.ru/vacancy/54416526?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 140000,
+        "salary_max": null,
+        "vacancy_name": "Python программист-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "Юрент",
+        "link": "https://spb.hh.ru/vacancy/54332179?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": 260000,
+        "vacancy_name": "Ведущий Python разработчик / Data scientist",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Айдвелл",
+        "link": "https://spb.hh.ru/vacancy/54692527?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "QA Automation Engineer (Python) Сербия, Грузия, Армения",
+        "salary_currency": null
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "ООО Мелдана",
+        "link": "https://spb.hh.ru/vacancy/53559205?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 125000,
+        "salary_max": 150000,
+        "vacancy_name": "Разработчик Python middle developer (Flask)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Новосибирск, Октябрьская",
+        "company name": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/53275903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 170000,
+        "vacancy_name": "Python developer (middle)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Ладожская",
+        "company name": "Lesta Studio (St.Petersburg / Moscow)",
+        "link": "https://spb.hh.ru/vacancy/50718373?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Programmer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "АО Гринатом",
+        "link": "https://spb.hh.ru/vacancy/54663978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Instories",
+        "link": "https://spb.hh.ru/vacancy/53574645?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend developer Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "SberAutoTech",
+        "link": "https://spb.hh.ru/vacancy/54591211?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "System developer С++ / Python (middleware)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Кожуховская",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/54036822?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python (мониторинг инфраструктуры)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО ОнТаргет ЛАБС",
+        "link": "https://spb.hh.ru/vacancy/53034598?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 6500,
+        "salary_max": 7000,
+        "vacancy_name": "Python Architect",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Уфа",
+        "company name": "Тензор",
+        "link": "https://spb.hh.ru/vacancy/46417309?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 115000,
+        "salary_max": 220000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Alber Blanc",
+        "link": "https://spb.hh.ru/vacancy/54385857?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": 8000,
+        "vacancy_name": "Software Engineer (Blockchain/DeFi)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "it-aces.com",
+        "link": "https://spb.hh.ru/vacancy/52390288?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 200000,
+        "vacancy_name": "Python Middle+ разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Воронеж",
+        "company name": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/54675662?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Фрунзенская",
+        "company name": "ПАО БАНК УРАЛСИБ",
+        "link": "https://spb.hh.ru/vacancy/47481070?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик (Middle)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "DINS",
+        "link": "https://spb.hh.ru/vacancy/54635433?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python/Go Developer (Georgia/Europe)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Проспект Мира",
+        "company name": "ООО НПО ПКРВ",
+        "link": "https://spb.hh.ru/vacancy/53809930?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": null,
+        "vacancy_name": "Machine Learning Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Кунцевская",
+        "company name": "АО Крибрум",
+        "link": "https://spb.hh.ru/vacancy/54295525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Backend программист, Rust",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Ростов-на-Дону",
+        "company name": "ЗАЗЕКС",
+        "link": "https://spb.hh.ru/vacancy/48411370?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python (прикладная математика)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Gameram",
+        "link": "https://spb.hh.ru/vacancy/53187159?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": null,
+        "vacancy_name": "ML engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "билайн: Контактные центры",
+        "link": "https://spb.hh.ru/vacancy/53089237?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Инфотек",
+        "link": "https://spb.hh.ru/vacancy/54260100?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Аналитик Данных (BigData)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "SberTech",
+        "link": "https://spb.hh.ru/vacancy/53831666?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": 270000,
+        "vacancy_name": "QA Python Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "CiPlay",
+        "link": "https://spb.hh.ru/vacancy/54566313?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 40000,
+        "salary_max": 80000,
+        "vacancy_name": "Junior+/ Middle Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Красноярск",
+        "company name": "ООО Скайлав Рус",
+        "link": "https://spb.hh.ru/vacancy/54339915?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend разработчик (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Смоленская и еще 1 ",
+        "company name": "Red Cedar",
+        "link": "https://spb.hh.ru/vacancy/49383353?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 500000,
+        "vacancy_name": "NLP Researcher",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Remokate",
+        "link": "https://spb.hh.ru/vacancy/54059404?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": 250000,
+        "vacancy_name": "Middle+ Python Developer (Django)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Alandarev Limited",
+        "link": "https://spb.hh.ru/vacancy/54059384?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 220000,
+        "vacancy_name": "Flask - Python Разработчик (удаленно)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Краснопресненская и еще 1 ",
+        "company name": "Emerging Travel Group (Ostrovok.ru, B2B.Ostrovok, RateHawk, ZenHotels)",
+        "link": "https://spb.hh.ru/vacancy/54632343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer (Cashbox Team)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "WILDBERRIES",
+        "link": "https://spb.hh.ru/vacancy/54636578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Селфсек",
+        "link": "https://spb.hh.ru/vacancy/49299326?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "vacancy_name": "Middle Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "OMION",
+        "link": "https://spb.hh.ru/vacancy/54601675?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 350000,
+        "vacancy_name": "Ведущий разработчик нейроных сетей",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО ЭС-АЙ Безопасность",
+        "link": "https://spb.hh.ru/vacancy/54528868?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 400000,
+        "vacancy_name": "Senior Backend Developer (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Белорусская и еще 2 ",
+        "company name": "ООО НТехЛаб",
+        "link": "https://spb.hh.ru/vacancy/49755455?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик (B2B-продукты)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Megaputer Intelligence, Компания",
+        "link": "https://spb.hh.ru/vacancy/51187368?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "vacancy_name": "Ведущий разработчик Machine Learning",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Метриум",
+        "link": "https://spb.hh.ru/vacancy/53641092?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 80000,
+        "vacancy_name": "Аналитик (парсинг данных / Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Gameram",
+        "link": "https://spb.hh.ru/vacancy/53187300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": null,
+        "vacancy_name": "ML engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Трубная и еще 2 ",
+        "company name": "ООО Селфсек",
+        "link": "https://spb.hh.ru/vacancy/48586304?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "vacancy_name": "Middle Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Владимир",
+        "company name": "Фуллстатс",
+        "link": "https://spb.hh.ru/vacancy/54639105?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист junior / middle backend-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "ООО Единые Электронные Системы",
+        "link": "https://spb.hh.ru/vacancy/53797612?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": null,
+        "vacancy_name": "Программист JavaScript, Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/54677495?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Автозаводская",
+        "company name": "AppQuantum",
+        "link": "https://spb.hh.ru/vacancy/54687298?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 400000,
+        "vacancy_name": "ML & Advanced analytics Lead / Lead Data Scientist",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Челябинск",
+        "company name": "ООО ДЖАСТ ВОРК",
+        "link": "https://spb.hh.ru/vacancy/54570226?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 110000,
+        "salary_max": 200000,
+        "vacancy_name": "Разработчик Python/Django",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "VK",
+        "link": "https://spb.hh.ru/vacancy/54596006?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python/Go Developer (группа автоматизации)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Когнитивные системы",
+        "link": "https://spb.hh.ru/vacancy/54326172?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 180000,
+        "vacancy_name": "Руководитель разработки на Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Горьковская и еще 1 ",
+        "company name": "Space307",
+        "link": "https://spb.hh.ru/vacancy/51415333?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Data Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "АО Гринатом",
+        "link": "https://spb.hh.ru/vacancy/54650335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "СПБ ГКУ ССПК",
+        "link": "https://spb.hh.ru/vacancy/50919510?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": null,
+        "vacancy_name": "Специалист сопровождения ИС на языке Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Нижний Новгород",
+        "company name": "ООО Xperience.ai",
+        "link": "https://spb.hh.ru/vacancy/54485983?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 320000,
+        "vacancy_name": "Middle / Senior Deep Learning Engineer (Computer Vision)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "WB—Tech",
+        "link": "https://spb.hh.ru/vacancy/54169810?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Шаболовская",
+        "company name": "BP Mobile",
+        "link": "https://spb.hh.ru/vacancy/54368496?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО Майгрин Маркет",
+        "link": "https://spb.hh.ru/vacancy/54613971?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 170000,
+        "salary_max": 220000,
+        "vacancy_name": "Программист Senior Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Мозен",
+        "link": "https://spb.hh.ru/vacancy/54635138?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 400000,
+        "vacancy_name": "Senior Python, Django Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Сокол",
+        "company name": "ИП Левина Анна Юрьевна",
+        "link": "https://spb.hh.ru/vacancy/54155057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": null,
+        "vacancy_name": "Инженер по машинному обучению (Machine Learning Engineer)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Enjoypro",
+        "link": "https://spb.hh.ru/vacancy/54329415?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 200000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "CoMagic.dev",
+        "link": "https://spb.hh.ru/vacancy/54599022?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "InvestEngine",
+        "link": "https://spb.hh.ru/vacancy/54619375?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 5000,
+        "vacancy_name": "Senior Python разработчик (Remote)",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Москва",
+        "company name": "Домклик",
+        "link": "https://spb.hh.ru/vacancy/54681920?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer (Автографик)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Иркутск",
+        "company name": "Вангер.рф - разработка сайтов",
+        "link": "https://spb.hh.ru/vacancy/54600585?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 80000,
+        "vacancy_name": "Программист Python/Django в веб-студию",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "TeachMeSkills",
+        "link": "https://spb.hh.ru/vacancy/54622767?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": null,
+        "vacancy_name": "Преподаватель курса Python (онлайн)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Румянцево",
+        "company name": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/54554000?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 300000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Павелецкая и еще 1 ",
+        "company name": "CATAPULTO.RU",
+        "link": "https://spb.hh.ru/vacancy/54505839?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 300000,
+        "salary_max": 400000,
+        "vacancy_name": "Team Lead Python/Django / Руководитель отдела разработки и тестирования",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Нагатинская",
+        "company name": "ИНСКОМ",
+        "link": "https://spb.hh.ru/vacancy/54427078?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Селфсек",
+        "link": "https://spb.hh.ru/vacancy/49299293?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 150000,
+        "vacancy_name": "Python-разработчик систем сбора",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ИП Гречко Анастасия Валерьевна",
+        "link": "https://spb.hh.ru/vacancy/54661885?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 15000,
+        "salary_max": 60000,
+        "vacancy_name": "Программист-автоматизатор на Zenno (C# / Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "LoyaltyPlant",
+        "link": "https://spb.hh.ru/vacancy/54570334?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 50000,
+        "salary_max": 70000,
+        "vacancy_name": "Data Analyst",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Дмитровская",
+        "company name": "ivi",
+        "link": "https://spb.hh.ru/vacancy/54593141?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Бауманская",
+        "company name": "Bip.ru",
+        "link": "https://spb.hh.ru/vacancy/53809223?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": null,
+        "vacancy_name": "Аналитик данных",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "StormWallTM",
+        "link": "https://spb.hh.ru/vacancy/54368979?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 150000,
+        "vacancy_name": "Middle Python разработчик (удаленно)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Стапп",
+        "link": "https://spb.hh.ru/vacancy/54080451?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 200000,
+        "vacancy_name": "Middle backend разработчик (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург, Площадь 1905 года",
+        "company name": "ИНСИС",
+        "link": "https://spb.hh.ru/vacancy/53379080?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer (middle)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Телеформ ИС",
+        "link": "https://spb.hh.ru/vacancy/54048562?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": 160000,
+        "vacancy_name": "Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Темпеста",
+        "link": "https://spb.hh.ru/vacancy/50895660?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 5000,
+        "vacancy_name": "Python Linux developer (remote)",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва, Белорусская и еще 2 ",
+        "company name": "ООО НТехЛаб",
+        "link": "https://spb.hh.ru/vacancy/43961654?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик (middle/senior)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Правое Полушарие Интроверта",
+        "link": "https://spb.hh.ru/vacancy/54600337?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Back-end Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Кузница Кадров",
+        "link": "https://spb.hh.ru/vacancy/54692434?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 1500,
+        "salary_max": 3500,
+        "vacancy_name": "Python developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "Яндекс.Практикум",
+        "link": "https://spb.hh.ru/vacancy/54622024?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик тестов Python (автоматизация тестирования)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Корпорация ЭЛАР",
+        "link": "https://spb.hh.ru/vacancy/54392105?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python (искусственный интеллект)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Трубная и еще 2 ",
+        "company name": "ООО Селфсек",
+        "link": "https://spb.hh.ru/vacancy/48504803?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 150000,
+        "vacancy_name": "Python-разработчик систем сбора",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Ростов-на-Дону",
+        "company name": "ООО СТ",
+        "link": "https://spb.hh.ru/vacancy/54417976?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": null,
+        "vacancy_name": "Middle Back-end программист/Python С++",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Киевская",
+        "company name": "ИТЕРАНЕТ",
+        "link": "https://spb.hh.ru/vacancy/54588979?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle backend-разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Лаборатория медицинских информационных технологий Элемент",
+        "link": "https://spb.hh.ru/vacancy/54381876?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "vacancy_name": "Аналитик данных",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Белорусская и еще 2 ",
+        "company name": "ООО НТехЛаб",
+        "link": "https://spb.hh.ru/vacancy/49755349?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик (проекты)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "МАГНИТ, Розничная сеть",
+        "link": "https://spb.hh.ru/vacancy/54659777?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Golang/Python Разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/54551026?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": 300000,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Сухаревская",
+        "company name": "ООО Фабрика Решений",
+        "link": "https://spb.hh.ru/vacancy/50832755?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 350000,
+        "vacancy_name": "Teamlead Backend (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО Селфсек",
+        "link": "https://spb.hh.ru/vacancy/49299311?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 150000,
+        "vacancy_name": "Python-разработчик в R&D отдел",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Барнаул",
+        "company name": "ООО Смарт консалтинг",
+        "link": "https://spb.hh.ru/vacancy/54646196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Пермь",
+        "company name": "АО РТИ",
+        "link": "https://spb.hh.ru/vacancy/52433362?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО ЭС-АЙ Безопасность",
+        "link": "https://spb.hh.ru/vacancy/54213033?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 250000,
+        "vacancy_name": "Middle Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Калужская",
+        "company name": "AERODISK",
+        "link": "https://spb.hh.ru/vacancy/54326465?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Гражданская и еще 2 ",
+        "company name": "EFIX GROUP",
+        "link": "https://spb.hh.ru/vacancy/51096887?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 226000,
+        "salary_max": null,
+        "vacancy_name": "Тестировщик ПО (Python или Golang)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "DIGINETICA",
+        "link": "https://spb.hh.ru/vacancy/54057940?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 170000,
+        "salary_max": 240000,
+        "vacancy_name": "Data Scientist/ML Engineer (Middle+)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Skanestas Investments Limited",
+        "link": "https://spb.hh.ru/vacancy/54392874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": null,
+        "vacancy_name": "Full-stack Python developer middle+ (Кипр, г. Лимассол)",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Москва",
+        "company name": "АО Гринатом",
+        "link": "https://spb.hh.ru/vacancy/54650314?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Иваново (Ивановская область)",
+        "company name": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/54675663?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Калужская",
+        "company name": "СОКБ, НИИ",
+        "link": "https://spb.hh.ru/vacancy/52610358?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Middle backend Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ПАО «Газпром нефть»",
+        "link": "https://spb.hh.ru/vacancy/54575518?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Крестьянская застава и еще 1 ",
+        "company name": "Банк ВТБ (ПАО)",
+        "link": "https://spb.hh.ru/vacancy/49549773?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python (middle\\senior)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Технопарк",
+        "company name": "ООО Центр-К",
+        "link": "https://spb.hh.ru/vacancy/54551041?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 250000,
+        "vacancy_name": "Инженер-программист",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Coleman Group",
+        "link": "https://spb.hh.ru/vacancy/54619024?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": null,
+        "vacancy_name": "Python Full Stack Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ShowHeroes GmbH",
+        "link": "https://spb.hh.ru/vacancy/53947747?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": 5500,
+        "vacancy_name": "Senior Python backend programmer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "Группа Самолет",
+        "link": "https://spb.hh.ru/vacancy/53941314?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Ведущий разработчик Python (Django)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО Перспектива",
+        "link": "https://spb.hh.ru/vacancy/54637962?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "vacancy_name": "Разработчик BI",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Нижний Новгород",
+        "company name": "Юрент",
+        "link": "https://spb.hh.ru/vacancy/54586937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Ведущий Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Ладожская",
+        "company name": "Lesta Studio (St.Petersburg / Moscow)",
+        "link": "https://spb.hh.ru/vacancy/51350693?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Server Programmer (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Челябинск",
+        "company name": "Областное государственное бюджетное учреждение Челябинский региональный центр навигационно-информационных технологий",
+        "link": "https://spb.hh.ru/vacancy/53565606?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 35000,
+        "salary_max": 75000,
+        "vacancy_name": "Программист-разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "Контур",
+        "link": "https://spb.hh.ru/vacancy/54539351?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Приморская",
+        "company name": "Digital Design",
+        "link": "https://spb.hh.ru/vacancy/52297215?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Nakusi Games",
+        "link": "https://spb.hh.ru/vacancy/53950138?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Analyst (Game)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск, Площадь Ленина",
+        "company name": "Dankolab",
+        "link": "https://spb.hh.ru/vacancy/52819002?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Analyst (Marketing)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Краснодар",
+        "company name": "МАГНИТ, Розничная сеть",
+        "link": "https://spb.hh.ru/vacancy/54659790?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Golang/Python Разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "КАДРОВЫЙ ЦЕНТР СТИМУЛ",
+        "link": "https://spb.hh.ru/vacancy/54235560?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "vacancy_name": "Python разработчик (Middle/Senior)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Смоленск",
+        "company name": "ООО Компания ЭКСПЕРТ",
+        "link": "https://spb.hh.ru/vacancy/54691489?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Калининград",
+        "company name": "ООО Деко Системс",
+        "link": "https://spb.hh.ru/vacancy/50448224?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Группа Самолет",
+        "link": "https://spb.hh.ru/vacancy/54311646?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python (Django) Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Redsteep",
+        "link": "https://spb.hh.ru/vacancy/53022644?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 275000,
+        "salary_max": 500000,
+        "vacancy_name": "Senior Solidity/Ethereum developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Севастополь",
+        "company name": "Тензор",
+        "link": "https://spb.hh.ru/vacancy/38792841?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 115000,
+        "salary_max": 220000,
+        "vacancy_name": "Python developer (middle)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "RU-CENTER Group",
+        "link": "https://spb.hh.ru/vacancy/54605309?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "MIDDLE Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ПАО «МТС», IT",
+        "link": "https://spb.hh.ru/vacancy/54194352?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle Python developer \"Eson\"",
+        "salary_currency": null
+    },
+    {
+        "company location": "Калининград",
+        "company name": "ООО SPAR Калининград",
+        "link": "https://spb.hh.ru/vacancy/49728072?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 200000,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "SberAutoTech",
+        "link": "https://spb.hh.ru/vacancy/54387696?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Engineer (Perception Self driving)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/54598573?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Баррикадная и еще 2 ",
+        "company name": "Лента, федеральная розничная сеть, Офис",
+        "link": "https://spb.hh.ru/vacancy/53986785?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Аналитик данных (Data analyst)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Иннотех, Группа компаний",
+        "link": "https://spb.hh.ru/vacancy/54464379?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Старший Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Красносельская",
+        "company name": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/52594855?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": null,
+        "vacancy_name": "Python\\go developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Пикабу",
+        "link": "https://spb.hh.ru/vacancy/54057157?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 200000,
+        "vacancy_name": "Продуктовый аналитик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/54569879?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Московские ворота",
+        "company name": "ООО ТаймВэб",
+        "link": "https://spb.hh.ru/vacancy/54661355?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "SberAutoTech",
+        "link": "https://spb.hh.ru/vacancy/54376916?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle Python / Golang developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Accel Club, Inc",
+        "link": "https://spb.hh.ru/vacancy/54224633?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Томск",
+        "company name": "ООО КонсалтПро",
+        "link": "https://spb.hh.ru/vacancy/54568193?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 150000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Владивосток",
+        "company name": "ООО Аптека25",
+        "link": "https://spb.hh.ru/vacancy/52799696?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Prooftechit",
+        "link": "https://spb.hh.ru/vacancy/53670453?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Automation QA Engineer (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Переславль-Залесский",
+        "company name": "it-aces.com",
+        "link": "https://spb.hh.ru/vacancy/50525122?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 200000,
+        "vacancy_name": "Python Middle+ разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/54626192?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Стажёр fullstack разработчик (Группа разработки SaaS интеграций)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Выборгская и еще 1 ",
+        "company name": "ООО Базис Телеком",
+        "link": "https://spb.hh.ru/vacancy/54578965?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer (Middle)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Леруа Мерлен. Центральный офис",
+        "link": "https://spb.hh.ru/vacancy/53935564?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Scientist в Data Accelerator (ML)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Садовая и еще 2 ",
+        "company name": "FinPay",
+        "link": "https://spb.hh.ru/vacancy/54351434?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle Python developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Казань",
+        "company name": "Монополия",
+        "link": "https://spb.hh.ru/vacancy/54570392?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Трубная и еще 2 ",
+        "company name": "ООО Селфсек",
+        "link": "https://spb.hh.ru/vacancy/48504798?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 150000,
+        "vacancy_name": "Python-разработчик в R&D отдел",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Казань",
+        "company name": "ООО Нэти",
+        "link": "https://spb.hh.ru/vacancy/54549654?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Acquco",
+        "link": "https://spb.hh.ru/vacancy/54483531?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": 6000,
+        "vacancy_name": "Senior Python developer",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "INNOVA GROUP",
+        "link": "https://spb.hh.ru/vacancy/54561002?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": 180000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/46351768?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Инженер по автоматизации тестирования (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Севастополь",
+        "company name": "РНКБ Банк (ПАО)",
+        "link": "https://spb.hh.ru/vacancy/53228021?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Специалист по парсингу данных (python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО СБКЛАУД",
+        "link": "https://spb.hh.ru/vacancy/54420029?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 200000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ИП Волчанская Анастасия Александровна",
+        "link": "https://spb.hh.ru/vacancy/54638592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "QA Python инженер",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ITFB Group",
+        "link": "https://spb.hh.ru/vacancy/52223574?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python (NLP)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Юрент",
+        "link": "https://spb.hh.ru/vacancy/54452851?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Ведущий Python разработчик / Data scientist",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "NETRIKA",
+        "link": "https://spb.hh.ru/vacancy/54623880?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "vacancy_name": "Senior Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Яндекс.Практикум",
+        "link": "https://spb.hh.ru/vacancy/51086253?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Наставник на курс \"Python-разработчик\"",
+        "salary_currency": null
+    },
+    {
+        "company location": "Ульяновск",
+        "company name": "ООО МФК Займер",
+        "link": "https://spb.hh.ru/vacancy/52651896?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": null,
+        "vacancy_name": "Data Analyst (Аналитик)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Петроградская и еще 1 ",
+        "company name": "ООО Дримкас",
+        "link": "https://spb.hh.ru/vacancy/53340208?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 140000,
+        "salary_max": null,
+        "vacancy_name": "QA Automation Engineer (Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "ООО ЛУИС+",
+        "link": "https://spb.hh.ru/vacancy/54036931?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Электронная торговая площадка Газпромбанка",
+        "link": "https://spb.hh.ru/vacancy/53382671?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Чертановская",
+        "company name": "QIWI",
+        "link": "https://spb.hh.ru/vacancy/50878194?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle/Senior Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Уфа",
+        "company name": "Алабуга. Международная школа",
+        "link": "https://spb.hh.ru/vacancy/54327568?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": null,
+        "vacancy_name": "Преподаватель Web-разработки на Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Смоленская и еще 1 ",
+        "company name": "Red Cedar",
+        "link": "https://spb.hh.ru/vacancy/49383447?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 360000,
+        "salary_max": 600000,
+        "vacancy_name": "Senior ML Researcher",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Top Remote Talent",
+        "link": "https://spb.hh.ru/vacancy/54026492?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 6000,
+        "salary_max": 14000,
+        "vacancy_name": "Blockchain Engineer Solidity",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "АО РАСЧЕТНЫЕ РЕШЕНИЯ",
+        "link": "https://spb.hh.ru/vacancy/53864420?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "AlfaBit.Group",
+        "link": "https://spb.hh.ru/vacancy/53816587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "vacancy_name": "Разработчик Python/Django",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Аэропорт",
+        "company name": "ФГУП ГосНИИАС",
+        "link": "https://spb.hh.ru/vacancy/54482335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 90000,
+        "salary_max": 180000,
+        "vacancy_name": "Middle Python backend developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "KVINT",
+        "link": "https://spb.hh.ru/vacancy/54519815?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Backend Developer (Remote)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "G-Core Labs",
+        "link": "https://spb.hh.ru/vacancy/54596952?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python (проект DDoS)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "ООО Айдеко",
+        "link": "https://spb.hh.ru/vacancy/38348123?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": null,
+        "vacancy_name": "Системный разработчик Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Хабаровск",
+        "company name": "ООО ИнфоДев",
+        "link": "https://spb.hh.ru/vacancy/54578016?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 50000,
+        "salary_max": 80000,
+        "vacancy_name": "Программист Python\\Django",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Московские ворота",
+        "company name": "ООО ТаймВэб",
+        "link": "https://spb.hh.ru/vacancy/51042960?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Павелецкая и еще 2 ",
+        "company name": "АО ОКБ",
+        "link": "https://spb.hh.ru/vacancy/54679497?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend Developer Python / Go",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "G-Core Labs",
+        "link": "https://spb.hh.ru/vacancy/54596951?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python (проект DDoS)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Киевская",
+        "company name": "3LOGIC GROUP",
+        "link": "https://spb.hh.ru/vacancy/50108323?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 350000,
+        "vacancy_name": "Data Scientist",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Белорусская и еще 1 ",
+        "company name": "Mindbox",
+        "link": "https://spb.hh.ru/vacancy/53081472?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 220000,
+        "vacancy_name": "C# developer junior / middle (.net, full-stack / back-end)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Новокузнецкая",
+        "company name": "Detego",
+        "link": "https://spb.hh.ru/vacancy/54507616?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Data Engineer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Курская и еще 2 ",
+        "company name": "ПАО «МТС» ",
+        "link": "https://spb.hh.ru/vacancy/49254587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": null,
+        "vacancy_name": "Senior Backend Python/С++ Developer продукт Audiogramm (MTS AI)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "ПАО ТрансКонтейнер",
+        "link": "https://spb.hh.ru/vacancy/50923918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer(Flask/Django)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Белорусская и еще 2 ",
+        "company name": "Flat Inn (ООО ФЛЭТ ИНН)",
+        "link": "https://spb.hh.ru/vacancy/54530497?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 70000,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Fullstack (Django React) - программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "VK",
+        "link": "https://spb.hh.ru/vacancy/54596005?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python/Go Developer (группа автоматизации)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Hexlet",
+        "link": "https://spb.hh.ru/vacancy/54555703?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 75000,
+        "vacancy_name": "Python программист (Наставник онлайн-курса по Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Adecco Russia",
+        "link": "https://spb.hh.ru/vacancy/54544947?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 180000,
+        "vacancy_name": "Аналитик данных (SQL, Python)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/54626193?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Стажёр fullstack разработчик (Группа разработки SaaS интеграций)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО РДП.РУ",
+        "link": "https://spb.hh.ru/vacancy/50978888?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик автотестов (Golang/Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Кутузовская",
+        "company name": "Домклик",
+        "link": "https://spb.hh.ru/vacancy/53586574?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Team Lead Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Центр хранения и анализа больших данных",
+        "link": "https://spb.hh.ru/vacancy/54603419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 220000,
+        "vacancy_name": "Middle-backend Python разработчик / программист",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Тюмень",
+        "company name": "IQ GROUP",
+        "link": "https://spb.hh.ru/vacancy/52002310?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": null,
+        "vacancy_name": "Руководитель направления Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург, Чернышевская",
+        "company name": "ITGLOBAL.COM",
+        "link": "https://spb.hh.ru/vacancy/54570817?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 100000,
+        "salary_max": 160000,
+        "vacancy_name": "Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Т1 Интеграция",
+        "link": "https://spb.hh.ru/vacancy/54689587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Администратор Linux/разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "APOLLO",
+        "link": "https://spb.hh.ru/vacancy/54068007?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 4000,
+        "salary_max": null,
+        "vacancy_name": "Программист С++",
+        "salary_currency": "USD"
+    },
+    {
+        "company location": "Москва",
+        "company name": "ООО ВижнЛабс (VisionLabs)",
+        "link": "https://spb.hh.ru/vacancy/54557297?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 190000,
+        "salary_max": 235000,
+        "vacancy_name": "Middle Python разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Группа Самолет",
+        "link": "https://spb.hh.ru/vacancy/54059175?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Старший разработчик Python (Django) проект Spact",
+        "salary_currency": null
+    },
+    {
+        "company location": "Томск",
+        "company name": "KODE",
+        "link": "https://spb.hh.ru/vacancy/50394981?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend Developer (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "Технологика",
+        "link": "https://spb.hh.ru/vacancy/50533416?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Junior+ CV/ML developer",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Кутузовская и еще 1 ",
+        "company name": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/48570014?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО ДЕМЛАБС",
+        "link": "https://spb.hh.ru/vacancy/53633411?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": null,
+        "vacancy_name": "Технический писатель",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Леруа Мерлен. Центральный офис",
+        "link": "https://spb.hh.ru/vacancy/53095478?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Инженер данных / Data engineer (Домен Платежи)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Старая Деревня",
+        "company name": "Internest",
+        "link": "https://spb.hh.ru/vacancy/54009219?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 250000,
+        "salary_max": null,
+        "vacancy_name": "Senior Data Engineer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Автозаводская",
+        "company name": "AppQuantum",
+        "link": "https://spb.hh.ru/vacancy/54007554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 4500,
+        "vacancy_name": "Lead Game Analyst / Лид игровой Аналитики (Remote)",
+        "salary_currency": "EUR"
+    },
+    {
+        "company location": "Москва, Мякинино",
+        "company name": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+        "link": "https://spb.hh.ru/vacancy/54002477?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Программист Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "АНО ЦИСМ",
+        "link": "https://spb.hh.ru/vacancy/53809388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle Python-разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "ООО Телеком-Инжиниринг",
+        "link": "https://spb.hh.ru/vacancy/54462693?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 120000,
+        "salary_max": null,
+        "vacancy_name": "Middle/Senior Python Developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Новосибирск",
+        "company name": "Монополия",
+        "link": "https://spb.hh.ru/vacancy/54570366?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "АТОЛ, группа компаний",
+        "link": "https://spb.hh.ru/vacancy/54597619?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python Developer (АТОЛ Delta)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Томск",
+        "company name": "Контур",
+        "link": "https://spb.hh.ru/vacancy/54539372?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик в инфраструктурную команду",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Лаборатория Касперского",
+        "link": "https://spb.hh.ru/vacancy/54659541?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "C++/Python Developer (Kaspersky Anti Targeted Attack)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Калужская",
+        "company name": "idaproject",
+        "link": "https://spb.hh.ru/vacancy/53995704?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 90000,
+        "salary_max": null,
+        "vacancy_name": "Backend разработчик (FastAPI)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Красноярск",
+        "company name": "Alente digital-агентство",
+        "link": "https://spb.hh.ru/vacancy/54270520?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 95000,
+        "vacancy_name": "Программист Python",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Калуга",
+        "company name": "АО АЛГОНТ",
+        "link": "https://spb.hh.ru/vacancy/50967638?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 90000,
+        "salary_max": 160000,
+        "vacancy_name": "Middle Python developer",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва, Беговая",
+        "company name": "GSL Law & Consulting",
+        "link": "https://spb.hh.ru/vacancy/54387997?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Разработчик Python",
+        "salary_currency": null
+    },
+    {
+        "company location": "Уфа",
+        "company name": "Монополия",
+        "link": "https://spb.hh.ru/vacancy/54570394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Монополия",
+        "link": "https://spb.hh.ru/vacancy/54570365?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python разработчик",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва, Перово",
+        "company name": "ООО КВАНТ ПРОГРАММ",
+        "link": "https://spb.hh.ru/vacancy/50101775?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 180000,
+        "salary_max": null,
+        "vacancy_name": "Программист С++ (Middle / Senior)",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "HR Prime",
+        "link": "https://spb.hh.ru/vacancy/54032436?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": 300000,
+        "vacancy_name": "Data Analyst",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Москва",
+        "company name": "Kokoc Group",
+        "link": "https://spb.hh.ru/vacancy/54656964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer (Django)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Школа программирования 21",
+        "link": "https://spb.hh.ru/vacancy/54302234?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python/Golang-программист (Middle)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Иваново (Ивановская область)",
+        "company name": "Фуллстатс",
+        "link": "https://spb.hh.ru/vacancy/54639106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 60000,
+        "salary_max": 200000,
+        "vacancy_name": "Программист junior / middle backend-разработчик",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Самара, Алабинская",
+        "company name": "Positive Technologies",
+        "link": "https://spb.hh.ru/vacancy/54689601?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Специалист по ИБ (Python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Санкт-Петербург, Выборгская",
+        "company name": "ATI.SU",
+        "link": "https://spb.hh.ru/vacancy/54140255?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Backend-developer (python)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Москва",
+        "company name": "Т1 Интеграция",
+        "link": "https://spb.hh.ru/vacancy/54549825?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Middle+/ Senior back-end Разработчик Python (удаленно)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Новосибирск, Гагаринская",
+        "company name": "STARTEX",
+        "link": "https://spb.hh.ru/vacancy/54349428?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 200000,
+        "salary_max": 240000,
+        "vacancy_name": "DevOps-инженер",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Санкт-Петербург",
+        "company name": "Kokoc Group",
+        "link": "https://spb.hh.ru/vacancy/54657015?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": null,
+        "salary_max": null,
+        "vacancy_name": "Python developer (Django)",
+        "salary_currency": null
+    },
+    {
+        "company location": "Екатеринбург",
+        "company name": "Контур",
+        "link": "https://spb.hh.ru/vacancy/54539370?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 160000,
+        "salary_max": null,
+        "vacancy_name": "Python-разработчик в инфраструктурную команду",
+        "salary_currency": "руб."
+    },
+    {
+        "company location": "Челябинск",
+        "company name": "Интерсвязь",
+        "link": "https://spb.hh.ru/vacancy/53561819?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%27python%27",
+        "salary_min": 80000,
+        "salary_max": null,
+        "vacancy_name": "Python backend-developer",
+        "salary_currency": "руб."
+    }
+]
